@@ -1,4 +1,4 @@
-package component.shine.com.basemoudle.Utils;
+package component.shine.com.basemoudle.utils;
 
 
 import java.util.concurrent.LinkedBlockingQueue;
