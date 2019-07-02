@@ -2,7 +2,7 @@ package component.shine.com.basemoudle.utils;
 
 /**
  * @author benjaminwan
- *         ����ת������
+ *         16进制转换工具类
  */
 public class MyFunc {
     //-------------------------------------------------------
