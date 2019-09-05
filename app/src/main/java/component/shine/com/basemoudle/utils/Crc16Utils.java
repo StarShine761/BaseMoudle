@@ -74,7 +74,7 @@ public class Crc16Utils {
         //01 03 10 00 8F 02 4E 00 91 02 44 00 92 02 5A 00 8B 02 47 40 D8
 //        System.out.println(getCRC("01 03 20 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF 7F FF"));
 //        System.out.println(getCRC("01 03 00 00 00 08"));
-        System.out.println(getCRC("0A 81 01"));
+        System.out.println(getCRC("03 02 00 00 00 20"));
 //
 //        String order="0101";
 //
