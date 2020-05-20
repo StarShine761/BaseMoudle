@@ -20,6 +20,8 @@ import component.shine.com.basemoudle.MainActivity;
  * 需在程序的入口进行初始化
  *          CrashHandler.getInstance().init(getCarLockContext());
  *          Thread.setDefaultUncaughtExceptionHandler(CrashHandler.getInstance());
+ *
+ *
  */
 
 public class CrashHandler implements Thread.UncaughtExceptionHandler {
