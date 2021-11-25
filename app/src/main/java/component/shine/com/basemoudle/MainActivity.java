@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         //测试啦
         DaoManager.getInstance().getDaoSession().getUserDao().insert(new User(null, "1", "2", "3", "4"));
         Timber.d("测试");
+        Timber.d("测试");
 
 
         OkHttpUtils.init().doPost("test", new HashMap<>(), new ReqCallBack<String>() {
